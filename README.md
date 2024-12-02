@@ -1,4 +1,4 @@
-# Power BI Sales Dashboard Project
+# Power BI Sales Dashboard Project (DAX)
 
 ## 📊 Overview
 This project features an interactive **Sales Dashboard** built using Power BI, leveraging a comprehensive sales dataset. The dashboard provides insightful visualizations, key performance indicators (KPIs), and advanced analytics powered by **DAX (Data Analysis Expressions)**. It showcases the power of data storytelling and analysis.
